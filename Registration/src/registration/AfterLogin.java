@@ -16,7 +16,7 @@ public class AfterLogin extends JFrame {
         setDefaultCloseOperation(3);
         setLayout(null);
         
-        JLabel l1 = new JLabel("Khaiya Mor");
+        JLabel l1 = new JLabel("Login Complete");
         l1.setBounds(50,50,300,50);
         add(l1);
         
